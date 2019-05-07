@@ -1,0 +1,7 @@
+to first run all containers run build.bat
+to run only readers run run_readers.bat
+to add new readers add new line with cardId to inputs.txt
+to start server run run_server.bat
+Requirements:
+Docker
+Now Windows with Hyper-V

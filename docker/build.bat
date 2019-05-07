@@ -7,4 +7,4 @@ docker build . -t alpine
 docker build ./server -t server
 start call docker run -p 80:80 --name server server
 PAUSE
-./czytniki.bat
+./run_readers.bat
